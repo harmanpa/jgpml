@@ -27,7 +27,7 @@
 
 package jgpml.covariancefunctions;
 
-import Jama.Matrix;
+import jama.Matrix;
 import static jgpml.covariancefunctions.MatrixOperations.*;
 
 /**  Linear covariance function with a single hyperparameter. The covariance

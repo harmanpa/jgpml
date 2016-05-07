@@ -27,7 +27,7 @@
 
 package jgpml.covariancefunctions;
 
-import Jama.Matrix;
+import jama.Matrix;
 
 /** Composes a covariance function as the sum of other covariance
  * functions. This function doesn't actually compute very much on its own, it

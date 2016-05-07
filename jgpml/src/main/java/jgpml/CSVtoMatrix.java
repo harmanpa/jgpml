@@ -27,7 +27,7 @@
 
 package jgpml;
 
-import Jama.Matrix;
+import jama.Matrix;
 
 import java.util.ArrayList;
 import java.util.StringTokenizer;

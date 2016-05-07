@@ -27,7 +27,7 @@
 
 package jgpml.covariancefunctions;
 
-import Jama.Matrix;
+import jama.Matrix;
 
 
 public interface CovarianceFunction {
